@@ -50,4 +50,6 @@ MSCS632_assignment2/
     JavaMemory.java  (Java garbage collection)
     cpp_memory.cpp   (C++ manual + RAII memory management)
 
+  Assignment2_Haeri Kyoung.pdf
+  Assignment2_Haeri Kyoung.pages
   README.md
